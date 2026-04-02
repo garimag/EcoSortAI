@@ -1,1 +1,1 @@
-# EcoSortAI
+# EcoSort AI App
